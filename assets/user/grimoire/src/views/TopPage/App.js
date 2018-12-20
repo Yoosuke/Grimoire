@@ -1,7 +1,12 @@
 import React, { Component } from 'react';
+/* Core components */
+
+/* assets */
 import logo from '../../assets/img/logo.svg';
 import '../../assets/scss/App.css';
+/* containers */
 import Count from '../../containers/Counter';
+
 
 class App extends Component {
   render() {
